@@ -10,3 +10,4 @@ matplotlib
 seaborn
 gspread
 oauth2client
+gunicorn
