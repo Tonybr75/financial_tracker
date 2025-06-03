@@ -1,0 +1,7 @@
+<h2>Spending by Category</h2>
+<table border="1" style="width:100%; text-align:center;">
+    <tr><th>Category</th><th>Amount (UGX)</th></tr>
+    {% for category, amount in categories.items() %}
+    <tr><td>{{ category }}</td><td>{{ amount }}</td></tr>
+    {% endfor %}
+</table>

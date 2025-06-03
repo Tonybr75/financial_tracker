@@ -1,0 +1,12 @@
+gspread
+oauth2client
+matplotlib
+seaborn
+pandas
+flask
+gunicorn
+pandas
+matplotlib
+seaborn
+gspread
+oauth2client
